@@ -78,10 +78,6 @@ Kotlin · Jetpack Compose · Material 3 · Room · DataStore · AlarmManager · 
 
 <div align="center">
 
-Zrobione z 💜 | [Zgłoś błąd](https://github.com/Michael121223232/PlanLekcji/issues)
+Zrobione z ❤️ | [Zgłoś błąd](https://github.com/Michael121223232/PlanLekcji/issues)
 
 </div><div align="center">
-
-Zrobione z 💜 | [Zgłoś błąd](https://github.com/Michael121223232/PlanLekcji/issues)
-
-</div>
